@@ -1,2 +1,2 @@
-#　jupyter_files
+# jupyter_files
 これらのファイルを１つのディレクトリーにコピーしてjupyter notebookを立ち上げてください。
